@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/MakKhas"
+        android:title="Makanan Khas"
+        android:icon="@drawable/makanan_vector"/>
+    <item
+        android:id="@+id/MinKhas"
+        android:title="Minuman Khas"
+        android:icon="@drawable/minuman_vector"/>
+    <item
+        android:id="@+id/MakFav"
+        android:title="Makanan Favorit"
+        android:icon="@drawable/makanfav_vector"/>
+
+</menu>
